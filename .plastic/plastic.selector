@@ -1,0 +1,4 @@
+repository "My project@yrden23@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     
